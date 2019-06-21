@@ -91,3 +91,10 @@ class QNet:
 
     def load_weights(self, name):
         self._model.load_weights(name)
+
+    def save(self, name):
+        self._model.save(name)
+
+
+net = QNet()
+net.save("model.h5")
