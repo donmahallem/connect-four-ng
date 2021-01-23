@@ -24,7 +24,7 @@
     "@tensorflow/tfjs": "1.2.1",
     "rxjs": "6.5.2",
     "tslib": "1.10.0",
-    "zone.js": "0.9.1"
+    "zone.js": "0.11.3"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "0.1101.1",
